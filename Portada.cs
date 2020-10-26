@@ -45,8 +45,6 @@ namespace Altas_Clientes_Productos
         private void Portada_Load(object sender, EventArgs e)
         {
             //probando git
-
-            //sdgsdgfdhdfhdfbdfbdfbdfbdfb
         }
     }
 }
